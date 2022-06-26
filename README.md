@@ -3,7 +3,7 @@
 
 ## Project: Corona Lung Image Data Analysis using CNN
 
-<h3>Convolutional Neural Network</h3> is a Deep learning algorithm specially designaed for working with Images and Videos.
+Convolutional Neural Network is a Deep learning algorithm specially designaed for working with Images and Videos.
 
 Aim: study of lungs images and telling whether the person is effected with corona or not effected.
 
